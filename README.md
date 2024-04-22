@@ -20,3 +20,5 @@ Delve deeper into the world of gastronomy through engaging blogs and resources.
 Our website is designed to seamlessly adapt to all devices, ensuring accessibility and convenience wherever you are. 
 
 With our thoughtfully designed features, every click, scroll, and interaction is a step closer to discovering the richness of flavors and experiences that await you. 
+
+![](https://github.com/Rasime-Dumlupunar/BS-Job-Search-Web/blob/main/jobs%20search.gif)
