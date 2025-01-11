@@ -1,4 +1,4 @@
-# multi-page-website
+# Multi Page Website
 
 A Journey Through Our Design
 
